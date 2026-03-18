@@ -1,4 +1,4 @@
-# 📱 SPPU BCA Android Slips
+# 📱 SPPU BCA Android Slips(Still updating)
 
 This repository contains Android practical programs (slips) for TYBCA (SPPU).  
 Each folder represents an individual slip question implemented as a separate Android project.
