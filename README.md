@@ -1,9 +1,12 @@
-📱 SPPU BCA Android Slips
+# 📱 SPPU BCA Android Slips
 
-This repository contains Android practical programs (slips) for TYBCA (SPPU).
+This repository contains Android practical programs (slips) for TYBCA (SPPU).  
 Each folder represents an individual slip question implemented as a separate Android project.
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
 SPPU-BCA-Android-Slips/
 │
 ├── s1q1/
@@ -14,73 +17,69 @@ SPPU-BCA-Android-Slips/
 └── ...
 
 Each folder contains:
+- Android Studio project files
+- XML layouts
+- Java/Kotlin source code
 
-Android Studio project files
+---
 
-XML layouts
-
-Java/Kotlin source code
-
-🧠 Purpose
+## 🧠 Purpose
 
 This repo is created for:
+- Practicing Android development basics
+- Preparing for practical exams
+- Quick reference for common Android programs
 
-Practicing Android development basics
+---
 
-Preparing for practical exams
+## ⚙️ Tech Stack
 
-Quick reference for common Android programs
+- Java / Kotlin
+- Android SDK
+- XML (UI Design)
+- Android Studio
 
-⚙️ Tech Stack
+---
 
-Java / Kotlin
+## 🚀 How to Run
 
-Android SDK
+1. Clone the repository:
+   git clone https://github.com/Aditi960/SPPU-BCA-Android-Slips.git
 
-XML (UI Design)
+2. Open any slip folder in Android Studio
 
-Android Studio
+3. Let Gradle sync
 
-🚀 How to Run
+4. Run the app on:
+   - Emulator OR
+   - Physical device
 
-Clone the repository:
+---
 
-git clone https://github.com/Aditi960/SPPU-BCA-Android-Slips.git
+## ⚠️ Important Notes
 
-Open any slip folder in Android Studio
+- Each slip is a separate project — don’t try to run everything at once.
+- Some files like .idea, build, etc. may be unnecessary — ideally should be ignored using .gitignore.
+- Code is written for learning + exam purposes, not production.
 
-Let Gradle sync
+---
 
-Run the app on:
+## 📌 Status
 
-Emulator OR
+- Basic slips completed
+- More slips will be added
 
-Physical device
+---
 
-⚠️ Important Notes
-
-Each slip is a separate project — don’t try to run everything at once.
-
-Some files like .idea, build, etc. may be unnecessary — ideally should be ignored using .gitignore.
-
-Code is written for learning + exam purposes, not production.
-
-📌 Status
-
-✅ Basic slips completed
-
-🔄 More slips will be added
-
-🤝 Contribution
+## 🤝 Contribution
 
 This is a personal academic repo, but if you're a classmate:
+- Fork it
+- Add your slips
+- Improve structure if needed
 
-Fork it
+---
 
-Add your slips
-
-Improve structure if needed
-
-📧 Contact
+## 📧 Contact
 
 If you need help or explanations, feel free to reach out.
